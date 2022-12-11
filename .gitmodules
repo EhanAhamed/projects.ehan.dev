@@ -7,3 +7,6 @@
 [submodule "purpurite/purpurite"]
 	path = purpurite/purpurite
 	url = https://github.com/purpurite/purpurite
+[submodule "webCompounder"]
+	path = webCompounder
+	url = https://github.com/EhanAhamed/webCompounder
